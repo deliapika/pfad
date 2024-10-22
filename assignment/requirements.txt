@@ -1,0 +1,5 @@
+pyhttpx
+bs4
+matplotlib
+openpyxl
+urllib3
